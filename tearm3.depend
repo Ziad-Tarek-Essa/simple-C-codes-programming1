@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476816308 source:e:\workspace\c\programming1\tearm3\0013.c
+	<stdio.h>
+	<stdlib.h>
+
+1477396405 source:e:\workspace\c\programming{0-2}\tearm3\0013.c
+	<stdio.h>
+	<stdlib.h>
+
+1477400768 source:e:\workspace\c\programming{0-2}\tearm3\0014.c
+	<stdio.h>
+	<math.h>
+
+1446667744 source:e:\workspace\c\programming{0-2}\tearm3\main.c
+	<stdio.h>
+	<stdlib.h>
+
